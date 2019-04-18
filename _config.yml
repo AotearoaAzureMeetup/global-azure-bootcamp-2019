@@ -1,6 +1,7 @@
 url: "https://auckland-azure-user-group.github.io/azure-global-bootcamp-2019"
 baseurl: "/azure-global-bootcamp-2019"
+logo: /images/logo-b.png
 title: Azure Global Bootcamp 2019 - Auckland
 description: Reference material for the Azure Global Bootcamp 2019 - Auckland
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-minimal
 show_downloads: false
