@@ -12,12 +12,13 @@ _Please take the time to complete the [feedback form]() so that we can improve a
 
 We would like to thank our fantastic sponsor who helped us make this day possible
 
-![Umbrellar](UMB_Logo_Full.png)
+![Umbrellar](images/UMB_Logo_Full.png)
 
 ## Content
 
 ## Reference
 
+- [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
 - [Recommended Tools for Azure](tools.md)
 
 ## Links
