@@ -1,39 +1,27 @@
-## Welcome to GitHub Pages
+# Welcome to Global Azure Bootcamp - Auckland
 
-You can use the [editor on GitHub](https://github.com/auckland-azure-user-group/azure-global-bootcamp-2019/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for taking part in the Global Azure Bootcamp.
+We are delighted you have chosen to spend your Saturday with us learning all about Azure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**This site contains all the materials you'll need for participating in the Azure Global Bootcamp Auckland sessions.**
+**You will be able to refer to this content during the sessions as well as after the bootcamp has completed.**
 
-Test: [Rorys Session](mypage.html)
+Whether you are a seasoned cloud professional or a first time cloud user, we hope you find today helpful in your journey to Azure.
 
-### Markdown
+_Please take the time to complete the [feedback form]() so that we can improve and bring you even better Azure Global Bootcamps in future._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We would like to thank our fantastic sponsor who helped us make this day possible
 
-```markdown
-Syntax highlighted code block
+![Umbrellar](UMB_Logo_Full.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Content
 
-- Bulleted
-- List
+## Reference
 
-1. Numbered
-2. List
+- [Recommended Tools for Azure](tools.md)
 
-**Bold** and _Italic_ and `Code` text
+## Links
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/auckland-azure-user-group/azure-global-bootcamp-2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Umbrellar](https://www.umbrellar.com) - Our sponsor
+- [Azure Global Bootcamp - Auckland](http://aucklandnz.azurebootcamp.net/) - Web site for the
+- [Auckland Azure User Group](https://www.meetup.com/Auckland-Azure-Usergroup/) - Azure User Group meetup run on the 2nd Wednesday every month at Microsoft, Auckland.
