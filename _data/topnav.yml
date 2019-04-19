@@ -10,7 +10,7 @@ topnav_dropdowns:
         - title: Welcome
           url: /index.html
 
-        - title: Setup
+        - title: Getting Setup
           url: /content_setup.html
 
         - title: Agenda
@@ -19,7 +19,7 @@ topnav_dropdowns:
         - title: Sessions
           url: /content_sessions.html
 
-        - title: Tools
+        - title: Recommended Tools
           url: /content_tools.html
 
         - title: Links

@@ -1,5 +1,5 @@
 ---
-title: "Setup"
+title: "Getting Setup"
 keywords: GlobalAzure Azure Global Bootcamp Auckland
 sidebar: home_sidebar
 permalink: content_setup.html

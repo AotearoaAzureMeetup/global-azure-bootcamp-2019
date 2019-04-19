@@ -2,7 +2,7 @@
 
 entries:
 - title: Sidebar
-  product: Azure Global Bootcamp Auckland 2019
+  product: Global Azure Bootcamp Auckland 2019
   folders:
 
   - title: Content
@@ -14,7 +14,7 @@ entries:
       output: web
       type: homepage
 
-    - title: Setup
+    - title: Getting Setup
       url: /content_setup.html
       output: web
 
@@ -26,7 +26,7 @@ entries:
       url: /content_sessions.html
       output: web
 
-    - title: Tools
+    - title: Recommended Tools
       url: /content_tools.html
       output: web
 

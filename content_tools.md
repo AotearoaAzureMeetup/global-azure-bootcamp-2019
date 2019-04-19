@@ -1,5 +1,5 @@
 ---
-title: "Tools"
+title: "Recommended Tools"
 keywords: GlobalAzure Azure Global Bootcamp Auckland
 sidebar: home_sidebar
 permalink: content_tools.html
