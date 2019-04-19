@@ -1,4 +1,10 @@
-# Sessions
+---
+title: "Sessions"
+keywords: GlobalAzure Azure Global Bootcamp Auckland
+sidebar: home_sidebar
+permalink: content_sessions.html
+summary: Session details for the Global Azure Bootcamp Auckland 2019.
+---
 
 ## Combined Sessions
 

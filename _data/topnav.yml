@@ -19,8 +19,5 @@ topnav_dropdowns:
         - title: Tools
           url: /content_tools.html
 
-        - title: Reference
-          url: /content_reference.html
-
         - title: Links
           url: /content_links.html

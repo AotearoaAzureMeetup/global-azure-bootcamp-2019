@@ -1,8 +1,10 @@
-# Recommended Tools for Azure
-
-This page links to the recommended tools that every Azure user should have in their toolbox.
-
-Using these tools will make your Azure experience even better and help you become a more effective Azure user.
+---
+title: "Tools"
+keywords: GlobalAzure Azure Global Bootcamp Auckland
+sidebar: home_sidebar
+permalink: content_tools.html
+summary: This page links to the recommended tools that every Azure user should have in their toolbox. Using these tools will make your Azure experience even better and help you become a more effective Azure user.
+---
 
 ## Recommended Online Tools
 
