@@ -17,4 +17,4 @@ We would like to thank our amazing sponsor who helped us make this day possible:
 
 [<img src="images/UMB_Logo_Full.png" width="200px">](https://www.umbrellar.com)
 
-_Please take the time to complete the [feedback form]() so that we can improve and bring you even better Azure Global Bootcamps in future._
+_Please take the time to complete the [feedback form](https://forms.office.com/Pages/ResponsePage.aspx?id=r8sgyGvTD0qb55csA6QeXdnsJymPDKZAtU7faCKgTExUOVlPOUZHSUNFVkM1NDVIWkpGTzAxRTlMVi4u) so that we can improve and bring you even better Azure Global Bootcamps in future. **We will be having a prize giveaway at the end of the event. To be in to win you will need to complete the feedback form.**_

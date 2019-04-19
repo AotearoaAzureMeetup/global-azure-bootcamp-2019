@@ -29,7 +29,7 @@ Lunch is kindly provided by Umbrellar. While you enjoy it, why not take the time
 
 ### Wrap-Up & Giveaways
 
-Stay around to the end and fill in the [feedback form]() and be into win some great swag from our sponsor Umbrellar as well as some goodies from Microsoft. A big thank you to both Umbrellar and Microsoft for the support of the community run event!
+Stay around to the end and fill in the [feedback form](https://forms.office.com/Pages/ResponsePage.aspx?id=r8sgyGvTD0qb55csA6QeXdnsJymPDKZAtU7faCKgTExUOVlPOUZHSUNFVkM1NDVIWkpGTzAxRTlMVi4u) and be into win some great swag from our sponsor Umbrellar as well as some goodies from Microsoft. A big thank you to both Umbrellar and Microsoft for the support of the community run event!
 
 ## Developer Track
 
