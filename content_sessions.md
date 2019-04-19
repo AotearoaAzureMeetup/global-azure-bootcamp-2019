@@ -23,6 +23,12 @@ We will use this time to make sure everyone is set up and ready to go in Azure.
 
 [Instructions for getting set up to make the most of the Global Azure Bootcamp](/content_setup.html)
 
+### Global Azure Science Lab 2019
+
+Have you ever wanted to discover a planet? How about discovering a planet around another star?
+
+[Deployment Guide](https://github.com/intelequia/GAB2019ScienceLab)
+
 ### Lunch, Labs and Ask an Expert
 
 Lunch is kindly provided by Umbrellar. While you enjoy it, why not take the time to talk to some of our experts on hand from Umbrellar, Microsoft or the community? Or just get to know other Azure users.
@@ -47,7 +53,7 @@ The session will be finished with a demonstration of Azure DevOps from code comm
 
 _11:30 AM - 12:45 PM_: [Rory Braybrook](/content_presenters.html#rory-braybrook)
 
-[Click to see the lab session content]()
+[Click to see the lab session content](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/)
 
 A look at the Azure I&AM landscape and what protocols and technologies are appropriate for different use cases.
 
