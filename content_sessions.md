@@ -3,14 +3,14 @@ title: "Sessions"
 keywords: GlobalAzure Azure Global Bootcamp Auckland
 sidebar: home_sidebar
 permalink: content_sessions.html
-summary: Session details for the Global Azure Bootcamp Auckland 2019.
+summary: Session details for the 2019 Global Azure Bootcamp Auckland.
 ---
 
 ## General Sessions
 
 ### Registration, Welcome, House Keeping
 
-Welcome to the Global Azure Bootcamp Auckland 2019.
+Welcome to the 2019 Global Azure Bootcamp Auckland.
 
 ### Keynote from David Howden
 
@@ -18,7 +18,7 @@ Keynote from David Howden, Head of Cloud @ Umbrellar
 
 ### Getting Setup in Azure
 
-To get the most out of the Global Azure Bootcamp Auckland 2019 you will need to be set up to use Azure as well as have some important tools installed onto your computer.
+To get the most out of the 2019 Global Azure Bootcamp Auckland you will need to be set up to use Azure as well as have some important tools installed onto your computer.
 We will use this time to make sure everyone is set up and ready to go in Azure.
 
 [Instructions for getting set up to make the most of the Global Azure Bootcamp](/content_setup.html)

@@ -3,7 +3,7 @@ title: "Agenda"
 keywords: GlobalAzure Azure Global Bootcamp Auckland
 sidebar: home_sidebar
 permalink: content_agenda.html
-summary: The Agenda for Global Azure Bootcamp Auckland 2019.
+summary: The Agenda for 2019 Global Azure Bootcamp Auckland.
 ---
 
 | Time | Developer Track | IT Pro Track |
