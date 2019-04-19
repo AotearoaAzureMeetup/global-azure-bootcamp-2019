@@ -35,10 +35,7 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
-
-feedback_email: dscottraynsford@outlook.com
-# used as a contact email for the Feedback link in the top navigation bar
+feedback_link: https://forms.office.com/Pages/ResponsePage.aspx?id=r8sgyGvTD0qb55csA6QeXdnsJymPDKZAtU7faCKgTExUOVlPOUZHSUNFVkM1NDVIWkpGTzAxRTlMVi4u
 
 # feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
