@@ -1,18 +1,18 @@
-repository: auckland-azure-user-group/azure-global-bootcamp-2019
+repository: auckland-azure-user-group/global-azure-bootcamp-2019
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Azure Global Bootcamp 2019 - Auckland
+topnav_title: Global Azure Bootcamp Auckland 2019
 # this appears on the top navigation bar next to the home button
 
-site_title: Reference material for the Azure Global Bootcamp 2019 - Auckland
+site_title: Reference material for the Global Azure Bootcamp Auckland 2019
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: Auckland Azure User Group
 # this appears in the footer
 
-github_editme_path: auckland-azure-user-group/azure-global-bootcamp-2019
+github_editme_path:
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -102,14 +102,6 @@ defaults:
 
 sidebars:
 - home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
-- other
 
 description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
 # the description is used in the feed.xml file
-
-# needed for sitemap.xml file only
-# url: http://idratherbewriting.com
-# baseurl: /documentation-theme-jekyll

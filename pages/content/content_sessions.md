@@ -1,4 +1,4 @@
-# Sessions and Content
+# Sessions
 
 ## Combined Sessions
 
