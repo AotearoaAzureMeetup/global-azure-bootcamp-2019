@@ -26,6 +26,18 @@ entries:
       url: /content_sessions.html
       output: web
 
+    - title: Presenters
+      url: /content_presenters.html
+      output: web
+
+    - title: Organizers
+      url: /content_organizers.html
+      output: web
+
+    - title: Support Team
+      url: /content_supportteam.html
+      output: web
+
     - title: Recommended Tools
       url: /content_tools.html
       output: web

@@ -19,6 +19,15 @@ topnav_dropdowns:
         - title: Sessions
           url: /content_sessions.html
 
+        - title: Presenters
+          url: /content_presenters.html
+
+        - title: Organizers
+          url: /content_organizers.html
+
+        - title: Support Team
+          url: /content_supportteam.html
+
         - title: Recommended Tools
           url: /content_tools.html
 
