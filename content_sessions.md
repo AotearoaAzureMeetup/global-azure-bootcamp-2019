@@ -35,7 +35,7 @@ Stay around to the end and fill in the [feedback form](https://forms.office.com/
 
 ### Azure DevOps in Action
 
-_10:00 AM - 11:15 AM_
+_10:00 AM - 11:15 AM_: [William Wang](/content_presenters.html#william-wang)
 
 [Click to see the lab session content]()
 
@@ -45,7 +45,7 @@ The session will be finished with a demonstration of Azure DevOps from code comm
 
 ### Azure Identity
 
-_11:30 AM - 12:45 PM_
+_11:30 AM - 12:45 PM_: [Rory Braybrook](/content_presenters.html#rory-braybrook)
 
 [Click to see the lab session content]()
 
@@ -53,7 +53,7 @@ A look at the Azure I&AM landscape and what protocols and technologies are appro
 
 ### Azure Functions - Bindings and Authentication
 
-_1:45 PM - 3:00 PM_
+_1:45 PM - 3:00 PM_: [Dave Theunissen](/content_presenters.html#dave-theunissen)
 
 [Click to get to the lab session content]()
 
@@ -62,7 +62,7 @@ We'll then have a go at putting together a simple SPA application that includes 
 
 ### Exploring Azure Integration Services
 
-_3:15 PM - 4:30 PM_
+_3:15 PM - 4:30 PM_: [Wagner Silveira](/content_presenters.html#wagner-silveira)
 
 [Click to see the lab session content]()
 
@@ -74,7 +74,7 @@ But how can you navigate the maze of Integration Services? In this session Wagne
 
 ### Azure Journey - Walk the walk
 
-_10:00 AM - 10:30 AM_
+_10:00 AM - 10:30 AM_: [Ajay Nabh](/content_presenters.html#ajay-nabh)
 
 [Click to see the lab session content]()
 
@@ -83,7 +83,7 @@ Is cloud a philosophy, a giant somebody’s computer or an innovation hub? How s
 
 ### Azure Stack an extension of Azure
 
-_10:30 AM - 11:15 AM_
+_10:30 AM - 11:15 AM_: [Marcelino Richarte](/content_presenters.html#marcelino-richarte)
 
 [Click to see the lab session content]()
 
@@ -91,7 +91,7 @@ How does this Hybrid model work – Consistency around portal, pricing, Azure lo
 
 ### Modernise whilst moving solutions to Azure
 
-_11:30 AM - 12:45 PM_
+_11:30 AM - 12:45 PM_: [Buddy Davies](/content_presenters.html#buddy-davies)
 
 [Click to see the lab session content]()
 
@@ -99,15 +99,15 @@ This session is going to look at an example infrastructure solution and the appr
 
 ### Using Azure Resource Manager Templates to supercharge your Azure Deployments
 
-_1:45 PM - 3:00 PM_
+_1:45 PM - 3:00 PM_: [Daniel Scott-Raynsford](/content_presenters.html#daniel-scott-raynsford)
 
-[Click to see the lab session content]()
+[Click to see the lab session content](https://github.com/PlagueHO/Workshop-ARM-Templates)
 
 Whether you’re a Developer building applications or an IT Pro building virtual data centres in Azure, at some point you're going to want to use modern Configuration Management practices to build those services. Azure Resource Manager Templates are the powerful declarative Infrastructure as Code system that is baked in to Azure. In this session we'll take a look at what Azure Resource Manager templates are, how to create and edit them and what tricks, tips and tools are available to you to help you become a Configuration Management master in Azure.
 
 ### 9 ways to completely mess up Security of your Azure Platform
 
-_3:15 PM - 4:30 PM_
+_3:15 PM - 4:30 PM_: [Aben Samuel](/content_presenters.html#aben-samuel)
 
 [Click to see the lab session content]()
 
