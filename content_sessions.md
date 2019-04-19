@@ -55,7 +55,7 @@ _11:30 AM - 12:45 PM_: [Rory Braybrook](/content_presenters.html#rory-braybrook)
 
 [Click to see the lab session content](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/)
 
-A look at the Azure I&AM landscape and what protocols and technologies are appropriate for different use cases.
+"Identity is the new control plane" Identity in Azure AD is far more than authentication and authorisation. It now proactively manages the perimeter.
 
 ### Azure Functions - Bindings and Authentication
 
