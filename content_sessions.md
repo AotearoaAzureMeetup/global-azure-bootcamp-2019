@@ -27,7 +27,7 @@ We will use this time to make sure everyone is set up and ready to go in Azure.
 
 Have you ever wanted to discover a planet? How about discovering a planet around another star?
 
-[Deployment Guide](https://github.com/intelequia/GAB2019ScienceLab)
+[Click here for all the details on how to get started with the lab and checkout out the dashboard.](/content_sciencelab.html)
 
 ### Lunch, Labs and Ask an Expert
 
@@ -99,7 +99,7 @@ How does this Hybrid model work – Consistency around portal, pricing, Azure lo
 
 _11:30 AM - 12:45 PM_: [Buddy Davies](/content_presenters.html#buddy-davies)
 
-[Click to see the lab session content]()
+[Click to see the lab session content](https://github.com/whatsupbuddy/AzureGBC2019)
 
 This session is going to look at an example infrastructure solution and the approaches you can take to modernising it when moving to Azure. We will take a quick look at what the equivalent will be when leveraging IaaS in Azure, followed by a preferred scenario of leveraging PaaS in Azure. To wrap up we will take a glance into some of the operational services available to build a complete solution. You will then go and follow a lab to build out the solution just covered. Note: We will be doing this via the portal with no automation – The following session with Daniel will look into how you leverage ARM to streamline your infrastructure deployments.
 

@@ -42,6 +42,10 @@ entries:
       url: /content_tools.html
       output: web
 
+    - title: Global Science Lab
+      url: /content_sciencelab.html
+      output: web
+
     - title: Links
       url: /content_links.html
       output: web

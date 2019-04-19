@@ -38,5 +38,8 @@ topnav_dropdowns:
         - title: Recommended Tools
           url: /content_tools.html
 
+        - title: Global Science Lab
+          url: /content_sciencelab.html
+
         - title: Links
           url: /content_links.html
