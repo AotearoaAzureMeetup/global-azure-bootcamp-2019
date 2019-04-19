@@ -21,13 +21,13 @@ Keynote from David Howden, Head of Cloud @ Umbrellar
 To get the most out of the 2019 Global Azure Bootcamp Auckland you will need to be set up to use Azure as well as have some important tools installed onto your computer.
 We will use this time to make sure everyone is set up and ready to go in Azure.
 
-[Instructions for getting set up to make the most of the Global Azure Bootcamp](/content_setup.html)
+[Instructions for getting set up to make the most of the Global Azure Bootcamp](content_setup.html)
 
 ### Global Azure Science Lab 2019
 
 Have you ever wanted to discover a planet? How about discovering a planet around another star?
 
-[Click here for all the details on how to get started with the lab and checkout out the dashboard.](/content_sciencelab.html)
+[Click here for all the details on how to get started with the lab and checkout out the dashboard.](content_sciencelab.html)
 
 ### Lunch, Labs and Ask an Expert
 
@@ -41,7 +41,7 @@ Stay around to the end and fill in the [feedback form](https://forms.office.com/
 
 ### Azure DevOps in Action
 
-_10:00 AM - 11:15 AM_: [William Wang](/content_presenters.html#william-wang)
+_10:00 AM - 11:15 AM_: [William Wang](content_presenters.html#william-wang)
 
 [Click to see the lab session content]()
 
@@ -51,7 +51,7 @@ The session will be finished with a demonstration of Azure DevOps from code comm
 
 ### Azure Identity
 
-_11:30 AM - 12:45 PM_: [Rory Braybrook](/content_presenters.html#rory-braybrook)
+_11:30 AM - 12:45 PM_: [Rory Braybrook](content_presenters.html#rory-braybrook)
 
 [Click to see the lab session content](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/)
 
@@ -59,7 +59,7 @@ _11:30 AM - 12:45 PM_: [Rory Braybrook](/content_presenters.html#rory-braybrook)
 
 ### Azure Functions - Bindings and Authentication
 
-_1:45 PM - 3:00 PM_: [Dave Theunissen](/content_presenters.html#dave-theunissen)
+_1:45 PM - 3:00 PM_: [Dave Theunissen](content_presenters.html#dave-theunissen)
 
 [Click to get to the lab session content]()
 
@@ -68,7 +68,7 @@ We'll then have a go at putting together a simple SPA application that includes 
 
 ### Exploring Azure Integration Services
 
-_3:15 PM - 4:30 PM_: [Wagner Silveira](/content_presenters.html#wagner-silveira)
+_3:15 PM - 4:30 PM_: [Wagner Silveira](content_presenters.html#wagner-silveira)
 
 [Click to see the lab session content]()
 
@@ -80,7 +80,7 @@ But how can you navigate the maze of Integration Services? In this session Wagne
 
 ### Azure Journey - Walk the walk
 
-_10:00 AM - 10:30 AM_: [Ajay Nabh](/content_presenters.html#ajay-nabh)
+_10:00 AM - 10:30 AM_: [Ajay Nabh](content_presenters.html#ajay-nabh)
 
 [Click to see the lab session content]()
 
@@ -89,7 +89,7 @@ Is cloud a philosophy, a giant somebody’s computer or an innovation hub? How s
 
 ### Azure Stack an extension of Azure
 
-_10:30 AM - 11:15 AM_: [Marcelino Richarte](/content_presenters.html#marcelino-richarte)
+_10:30 AM - 11:15 AM_: [Marcelino Richarte](content_presenters.html#marcelino-richarte)
 
 [Click to see the lab session content]()
 
@@ -97,7 +97,7 @@ How does this Hybrid model work – Consistency around portal, pricing, Azure lo
 
 ### Modernise whilst moving solutions to Azure
 
-_11:30 AM - 12:45 PM_: [Buddy Davies](/content_presenters.html#buddy-davies)
+_11:30 AM - 12:45 PM_: [Buddy Davies](content_presenters.html#buddy-davies)
 
 [Click to see the lab session content](https://github.com/whatsupbuddy/AzureGBC2019)
 
@@ -105,7 +105,7 @@ This session is going to look at an example infrastructure solution and the appr
 
 ### Using Azure Resource Manager Templates to supercharge your Azure Deployments
 
-_1:45 PM - 3:00 PM_: [Daniel Scott-Raynsford](/content_presenters.html#daniel-scott-raynsford)
+_1:45 PM - 3:00 PM_: [Daniel Scott-Raynsford](content_presenters.html#daniel-scott-raynsford)
 
 [Click to see the lab session content](https://github.com/PlagueHO/Workshop-ARM-Templates)
 
@@ -113,7 +113,7 @@ Whether you’re a Developer building applications or an IT Pro building virtual
 
 ### 9 ways to completely mess up Security of your Azure Platform
 
-_3:15 PM - 4:30 PM_: [Aben Samuel](/content_presenters.html#aben-samuel)
+_3:15 PM - 4:30 PM_: [Aben Samuel](content_presenters.html#aben-samuel)
 
 [Click to see the lab session content]()
 

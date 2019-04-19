@@ -11,7 +11,7 @@ summary: Thank you for taking part in the 2019 Global Azure Bootcamp Auckland. W
 
 Whether you are a seasoned cloud professional or a first time cloud user, we hope you find today helpful in your journey to Azure.
 
-[Please take a look at the Getting Setup page to make sure you're ready to take part in the hands on content.](/content_setup.html)
+[Please take a look at the Getting Setup page to make sure you're ready to take part in the hands on content.](content_setup.html)
 
 We would like to thank our amazing sponsor who helped us make this day possible:
 
