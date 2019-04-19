@@ -11,8 +11,10 @@ summary: Thank you for taking part in the Global Azure Bootcamp Auckland 2019. W
 
 Whether you are a seasoned cloud professional or a first time cloud user, we hope you find today helpful in your journey to Azure.
 
-_Please take the time to complete the [feedback form]() so that we can improve and bring you even better Azure Global Bootcamps in future._
+[Please take a look at the getting setup page to make sure you're ready to take part in the hands on content.](/content_setup.html)
 
 We would like to thank our amazing sponsor who helped us make this day possible:
 
-[<img src="images/UMB_Logo_Full.png" width="300">](https://www.umbrellar.com)
+[<img src="images/UMB_Logo_Full.png" width="200px">](https://www.umbrellar.com)
+
+_Please take the time to complete the [feedback form]() so that we can improve and bring you even better Azure Global Bootcamps in future._

@@ -6,11 +6,11 @@ permalink: content_sessions.html
 summary: Session details for the Global Azure Bootcamp Auckland 2019.
 ---
 
-## Combined Sessions
+## General Sessions
 
 ### Registration, Welcome, House Keeping
 
-TBC
+Welcome to the Global Azure Bootcamp Auckland 2019.
 
 ### Keynote from David Howden
 
@@ -18,15 +18,18 @@ Keynote from David Howden, Head of Cloud @ Umbrellar
 
 ### Getting Setup in Azure
 
-TBC
+To get the most out of the Global Azure Bootcamp Auckland 2019 you will need to be set up to use Azure as well as have some important tools installed onto your computer.
+We will use this time to make sure everyone is set up and ready to go in Azure.
+
+[Instructions for getting set up to make the most of the Global Azure Bootcamp](/content_setup.html)
 
 ### Lunch, Labs and Ask an Expert
 
-TBC
+Lunch is kindly provided by Umbrellar. While you enjoy it, why not take the time to talk to some of our experts on hand from Umbrellar, Microsoft or the community? Or just get to know other Azure users.
 
 ### Wrap-Up & Giveaways
 
-TBC
+Stay around to the end and fill in the [feedback form]() and be into win some great swag from our sponsor Umbrellar as well as some goodies from Microsoft. A big thank you to both Umbrellar and Microsoft for the support of the community run event!
 
 ## Developer Track
 

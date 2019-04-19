@@ -10,6 +10,9 @@ topnav_dropdowns:
         - title: Welcome
           url: /index.html
 
+        - title: Setup
+          url: /content_setup.html
+
         - title: Agenda
           url: /content_agenda.html
 

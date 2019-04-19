@@ -14,6 +14,10 @@ entries:
       output: web
       type: homepage
 
+    - title: Setup
+      url: /content_setup.html
+      output: web
+
     - title: Agenda
       url: /content_agenda.html
       output: web
