@@ -19,12 +19,12 @@ You may use your existing Azure Account.
 > If you already have a personal Azure account but don't have any credit on it:
 
 1. Get an Azure Pass voucher from one of the organizers.
-1. Follow the instructions: https://www.microsoftazurepass.com/Home/HowTo
+1. Follow the [Azure Pass activation instructions](https://www.microsoftazurepass.com/Home/HowTo).
 
 > If you don't have a personal Azure Account:
 
 1. Get an Azure Pass voucher from one of the organizers.
-1. Follow the instructions: https://www.microsoftazurepass.com/Home/HowTo
+1. Follow the [Azure Pass activation instructions](https://www.microsoftazurepass.com/Home/HowTo).
 
 > If you already have a work Azure account:
 
@@ -34,7 +34,7 @@ have the required permissions to the account to partiticpate in the lab.**
 Therefore, it is recommended you set up a personal Azure Account:
 
 1. Get an Azure Pass voucher from one of the organizers.
-1. Follow the instructions: https://www.microsoftazurepass.com/Home/HowTo
+1. Follow the instructions: Follow the [Azure Pass activation instructions](https://www.microsoftazurepass.com/Home/HowTo).
 
 ## Install Recommended Tools
 
