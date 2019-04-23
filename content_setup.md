@@ -6,7 +6,7 @@ permalink: content_setup.html
 summary: Instructions and help for Getting Setup in Azure. This page will help make sure you're set up and ready to participate in the hands-on-labs in Azure.
 ---
 
-## Azure Account
+## 1. Azure Account
 
 The first thing you'll need is access to an Azure Account with enough
 credit on it to complete the Labs. The labs are only expected to use
@@ -36,7 +36,9 @@ Therefore, it is recommended you set up a personal Azure Account:
 1. Get an Azure Pass voucher from one of the organizers.
 1. Follow the instructions: Follow the [Azure Pass activation instructions](https://www.microsoftazurepass.com/Home/HowTo).
 
-## Install Recommended Tools
+> [Click here for more information on Azure Pass Best Practices](https://requests.microsoftazurepass.com/BestPractices).
+
+## 2. Install Recommended Tools
 
 It is strongly advised that you have installed the [recommended tools](content_setup.html#recommended-tool-downloads).
 All of these tools are free and are supported on Windows, Linux and Mac.
