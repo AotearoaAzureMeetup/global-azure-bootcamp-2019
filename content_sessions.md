@@ -115,6 +115,6 @@ Whether you’re a Developer building applications or an IT Pro building virtual
 
 _3:15 PM - 4:30 PM_: [Aben Samuel](content_presenters.html#aben-samuel)
 
-[Click to see the lab session content]()
+[Click to see the lab session content](https://github.com/neop26/securitysessionaklgcb2019)
 
 A common misconception is that moving to the cloud means your data and your platform is completely secure. DON’T Worry, it is not. In this session, I intent to show you 9 different topics, you shouldn’t do so that you can keep your Microsoft Azure platform remain vulnerable and provide all the surface area required for a large scale attack. Finally something in common to your On-premises platform.
