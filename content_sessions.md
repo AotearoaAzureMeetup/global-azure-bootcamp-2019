@@ -43,7 +43,7 @@ Stay around to the end and fill in the [feedback form](https://forms.office.com/
 
 _10:00 AM - 11:15 AM_: [William Wang](content_presenters.html#william-wang)
 
-[Click to see the lab session content]()
+[Click to see the lab session content](https://github.com/bwwilliam/azurebootcamp2019)
 
 William will discuss some of the common problems with software development.
 He will share some design considerations around CI/CD pipeline, and development practice.
