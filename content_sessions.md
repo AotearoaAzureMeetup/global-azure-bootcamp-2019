@@ -61,7 +61,7 @@ _11:30 AM - 12:45 PM_: [Rory Braybrook](content_presenters.html#rory-braybrook)
 
 _1:45 PM - 3:00 PM_: [Dave Theunissen](content_presenters.html#dave-theunissen)
 
-[Click to get to the lab session content]()
+[Click to get to the lab session content](https://github.com/davetheunissen/AzureFunctionsWorkshop)
 
 In this session we take a look at some of the bindings available to you and how you might go about creating your own custom bindings using the binding extensibility framework.
 We'll then have a go at putting together a simple SPA application that includes authenticating to back end functions via Azure Active Directory and serving up content using the Azure Function SignalR and CosmosDb trigger bindings.
