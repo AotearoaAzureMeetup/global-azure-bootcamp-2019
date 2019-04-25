@@ -70,7 +70,7 @@ We'll then have a go at putting together a simple SPA application that includes 
 
 _3:15 PM - 4:30 PM_: [Wagner Silveira](content_presenters.html#wagner-silveira)
 
-[Click to see the lab session content]()
+[Click to see the lab session content](https://github.com/wsilveiranz/gab2019)
 
 On a connected world access to up to date information is critical.
 With distributed systems, where parts of the information is mastered in different systems, integration plays a critical role in making sure that every system have the correct data at the correct time.
