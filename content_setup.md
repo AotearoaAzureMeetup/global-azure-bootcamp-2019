@@ -40,7 +40,7 @@ Therefore, it is recommended you set up a personal Azure Account:
 
 ## 2. Install Recommended Tools
 
-It is strongly advised that you have installed the [recommended tools](content_setup.html#recommended-tool-downloads).
+It is strongly advised that you have installed the [recommended tools](content_tools.html#recommended-tool-downloads).
 All of these tools are free and are supported on Windows, Linux and Mac.
 They are all tools that all Azure professionals should have in thier
 toolkit, regardless of thier role.

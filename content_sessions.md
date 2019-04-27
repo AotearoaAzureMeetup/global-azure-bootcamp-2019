@@ -107,8 +107,8 @@ This session is going to look at an example infrastructure solution and the appr
 
 _1:45 PM - 3:00 PM_: [Daniel Scott-Raynsford](content_presenters.html#daniel-scott-raynsford)
 
-[Click to see the Presentation](https://github.com/PlagueHO/Workshop-ARM-Templates/blob/master/ppt/using-azure-resource-manager-templates-to-supercharge-your-azure-deployments.pptx)
-[Click to see the lab session content](https://github.com/PlagueHO/Workshop-ARM-Templates)
+[Presentation](https://github.com/PlagueHO/Workshop-ARM-Templates/blob/master/ppt/using-azure-resource-manager-templates-to-supercharge-your-azure-deployments.pptx)
+[Workshop](https://github.com/PlagueHO/Workshop-ARM-Templates)
 
 Whether you’re a Developer building applications or an IT Pro building virtual data centres in Azure, at some point you're going to want to use modern Configuration Management practices to build those services. Azure Resource Manager Templates are the powerful declarative Infrastructure as Code system that is baked in to Azure. In this session we'll take a look at what Azure Resource Manager templates are, how to create and edit them and what tricks, tips and tools are available to you to help you become a Configuration Management master in Azure.
 
