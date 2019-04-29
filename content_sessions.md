@@ -54,7 +54,7 @@ The session will be finished with a demonstration of Azure DevOps from code comm
 
 _11:30 AM - 12:45 PM_: [Rory Braybrook](content_presenters.html#rory-braybrook)
 
-[Presentation]()
+[Presentation](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/Slides/AAD.pptx)
 [Workshop](https://rbrayb.github.io/global-azure-bootcamp-iam-2019/)
 
 "Identity is the new control plane" Identity in Azure AD is far more than authentication and authorisation. It now proactively manages the perimeter.
