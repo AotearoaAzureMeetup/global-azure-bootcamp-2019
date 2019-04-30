@@ -73,8 +73,8 @@ We'll then have a go at putting together a simple SPA application that includes 
 
 _3:15 PM - 4:30 PM_: [Wagner Silveira](content_presenters.html#wagner-silveira)
 
-[Presentation]()
-[Workshop](https://github.com/wsilveiranz/gab2019)
+[Presentation](https://github.com/wsilveiranz/gab2019/tree/master/presentation)
+[Workshop](https://github.com/wsilveiranz/gab2019/tree/master/lab)
 
 On a connected world access to up to date information is critical.
 With distributed systems, where parts of the information is mastered in different systems, integration plays a critical role in making sure that every system have the correct data at the correct time.
